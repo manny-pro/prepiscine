@@ -1,0 +1,24 @@
+" task 2.4 "/
+|- - " Electro "/
+| | - - " Aphex Twin "/
+| | `-- " Come to Daddy "/
+| | `-- " Bucephalus Bouncing Ball "
+| `-- " Fatboy Slim "/
+| `-- " You 've Come a Long Way , Baby "/
+| `-- "1 -02 - The Rockafeller Skank "
+|- - " HipHop "/
+| | - - " Beastie Boys "/
+| | `-- " Singles "/
+| | `-- " Sabotage - Get It Together "/
+| | `-- " Sabotage (LP Version )"
+| | - - "MF DOOM "/
+| | `-- " Madvillain - Madvillainy "/
+| | `-- "03 - Meat Grinder "
+| `-- " Notorious BIG "/
+| `-- " Life After Death "/
+| `-- " Hypnotize "
+|- - " Rock "/
+| `-- " Rage Against The Machine "/
+| `-- " Rage Against The Machine "/
+| `-- " Killing In The Name Of"
+`-- "Soundtracks"/
