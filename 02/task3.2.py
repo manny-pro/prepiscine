@@ -1,6 +1,5 @@
-n = int(input("Entrez les digits à calculer : "))
+n = int(input("Entrez les digits N à calculer : "))
+m = int(input("Entrez les digits M à calculer : "))
 
-def calculate_digits(n):
-    return sum(int(digit) for digit in str(n))
-
-print(calculate_digits(n))
+def calculate_digits(x):
+    return sum(int(d
